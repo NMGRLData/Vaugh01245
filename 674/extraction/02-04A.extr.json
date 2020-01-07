@@ -1,0 +1,34 @@
+{
+    "beam_diameter": "2.0",
+    "cleanup_duration": 30.0,
+    "commit": "ba523b197d9422342bcf2d9e03cae6f918176fb3",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 3.3,
+    "grain_polygons": [
+        "d2llOFRwcFpCVUk3QUNNQU9nQWtBRGtBSlFBNUFDWUFPQUFuQURnQUtBQTRBQ2tBT0FBcUFEa0FLd0E1QUN3QU9nQXNBRHNBTFFBOEFDNEFQUUF1QUQ0QUxnQS9BQzRBUUFBdUFFRUFMUUJDQUMwQVF3QXRBRVFBTEFCRUFDc0FSQUFxQUVVQUtRQkZBQ2dBUkFBbkFFTUFKZ0JDQUNVQVFRQWtBRUFBSkFBL0FDUUFQZ0FrQUQwQUpBQThBQ01B"
+    ],
+    "light_value": 0.0,
+    "load_holder": "221-hole",
+    "load_name": "C0100",
+    "measured_response": null,
+    "pattern": "dragonflypeakpattern_br1-221-hole.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 203,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
